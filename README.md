@@ -1,4 +1,4 @@
-                                                        ***Hi, I'm Bharti***👨‍💻    
+ ***Hi, I'm Bharti***👨‍💻    
 ***
 •🔭 I'm currently working on backend web development.  
 •🌱 I'm currently learning the fundamentals of Python to get started with Machine Learning.  
