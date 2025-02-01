@@ -1,4 +1,4 @@
-                                             <b>Hi, I'm Bharti 👨‍💻</b>
+                                             Hi, I'm Bharti 👨‍💻
 
 <!--
 **bharti0219/bharti0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
